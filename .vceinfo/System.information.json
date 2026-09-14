@@ -1,0 +1,12 @@
+{
+  "system_name": "Vz - Code Editor Build Engine",
+  "core_version": "v2.6.4-release",
+  "architecture": "Cloud-Native GitHub Actions Build Pipeline",
+  "engine_info": "Este projeto utiliza compilacao remota via container Linux com Gradle Daemon em cache persistente.",
+  "security_notice": "As configuracoes criticas de execucao estao integradas na sandbox interna de seguranca do VzNexus.",
+  "node_trace": "c5efb7ac-3a6b-463f-97f6-9612ad4b838d",
+  "entropy_seed": "VnpOZXh1c19TZWN1cml0eV9QYXlsb2FkXzE3ODkzNTM0NDQwOTg=",
+  "hex_routing": "0x7F5632::7e730094-698",
+  "integrity_signature": "Mjc5NjEzZDMtMGE0Mi00ZjYzLThkNWItMWU0ODM2YWY2Y2M4",
+  "credits": "Desenvolvido por Vtzin x • Mantido por VzTechCore © 2026"
+}
